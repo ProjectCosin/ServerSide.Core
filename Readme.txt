@@ -1,0 +1,1 @@
+ServerSide.Core 这个REPO主要包含了针对CCU设备与Server端进行数据交互的所有源码。此系统基于Microsoft .Net Framework平台，以C#为开发语言。开发者可以将这套源码架设在自己的服务器端，在CCU端的源码中，同样将ServerPath更改成自己服务器端的地址，可实现私有物联云。（本REPO中不含数据库） 
